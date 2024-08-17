@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    color:bisque;
+}
+
+.button{
+   width: 22vw;
+   height:20vh;  
+   margin:20px;
+   padding:10px;
+    border: 1px solid whitesmoke;
+}
+.canvas{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    border:2px solid red;
+} 
+
+
+
+h2{
+    text-align: center;
+}
+
+#red{
+    background-color: red;
+}
+
+#green{
+    background-color:green;
+}
+#yellow{
+    background-color: rgb(230, 230, 44);
+}
+#blue{
+    background-color: rgb(10, 13, 181);
+}
